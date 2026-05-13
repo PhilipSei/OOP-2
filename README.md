@@ -35,7 +35,7 @@ A RESTful API built with *Python FastAPI* for managing the Limkokwing University
 
 bash
 # 1. Clone the repository
-git clone https://github.com/[your-username]/limkokwing-library-api.git
+git clone https://github.com/PhilipSei/limkokwing-library-api.git
 cd limkokwing-library-api
 
 # 2. Install dependencies
